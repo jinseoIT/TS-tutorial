@@ -27,6 +27,6 @@
 - DOM 제어: 자바스크립트와 같이 DOM을 제어해 요소를 추가하거나 삭제할 수 있습니다.
   최신 ECMAScript 기능 지원: ES6 이상의 최신 자바스크립트 문법을 손쉽게 지원할 수 있습니다.
 
-> ## References
+> ## References 
 
 https://www.typescriptlang.org/docs/home.html > https://www.tutorialsteacher.com/typescript > https://hyunseob.github.io/2017/12/12/typescript-type-inteference-and-type-assertion/ > https://jsdev.kr/t/typescript-interface/3168 > https://github.com/microsoft/TypeScript/wiki/‘this’-in-TypeScript > https://github.com/Microsoft/TypeScript-Handbook/issues/180 > https://medium.com/naver-fe-platform/%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%BB%B4%ED%8C%8C%EC%9D%BC%EB%9F%AC%EA%B0%80-%EB%AA%A8%EB%93%88-%ED%83%80%EC%9E%85-%EC%84%A0%EC%96%B8%EC%9D%84-%EC%B0%B8%EC%A1%B0%ED%95%98%EB%8A%94-%EA%B3%BC%EC%A0%95-5bfc55a88bb6
